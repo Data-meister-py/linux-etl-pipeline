@@ -19,4 +19,4 @@ A self-hosted Linux ETL pipeline that ingests data from a public API, processes 
 - Docker (optional extension)
 
 ## Status
-🚧 In progress
+✅ Completed
